@@ -7,5 +7,5 @@
   "issue_tracker": "https://github.com/py-smart-gardena/hass-gardena-smart-system/issues",
   "dependencies": [],
   "codeowners": ["@py-smart-gardena"],
-  "requirements": ["py-smart-gardena@git+https://github.com/Mr-Staffman/py-smart-gardena.git@main", "oauthlib==3.2.2"]
+  "requirements": ["py-smart-gardena@git+https://github.com/Mr-Staffman/py-smart-gardena.git@master", "oauthlib==3.2.2"]
 }
